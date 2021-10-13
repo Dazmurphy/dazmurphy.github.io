@@ -19,10 +19,6 @@ export const App: React.FunctionComponent = () => {
       }}
       gap={15}
     >
-      <img
-        src="https://avatars1.githubusercontent.com/u/10632384?s=400&u=6d130fbe13a1603f5e25c13bf680a18653531147&v=4"
-        alt="logo"
-      />
       <Text variant="xxLarge" styles={boldStyle}>
         Welcome to Your UI Fabric App
       </Text>
